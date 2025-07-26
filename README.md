@@ -13,4 +13,4 @@ The email template was created to demonstrate:
 - Figma (for layout and prototyping)
 
 ## 🔗 Figma Design Link
-🔗https://www.figma.com/design/ymsRGjzUMZh8KAhtO0WqBY/codsoft?node-id=45-20&t=gtlj0ffK9MBULFMw-1
+🔗https://www.figma.com/proto/ymsRGjzUMZh8KAhtO0WqBY/codsoft?page-id=45%3A20&node-id=47-32&p=f&viewport=246%2C428%2C0.29&t=J4wCmFN7TrVgzgfY-1&scaling=contain&content-scaling=fixed
